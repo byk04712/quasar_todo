@@ -1,4 +1,3 @@
-
 # [Quasar](http://quasar.dev/) Todo App
 
 Quasar Todo
@@ -34,3 +33,5 @@ quasar build
 ![](./src/statics/mobile.png)
 
 ![](./src/statics/browse.png)
+
+![](./src/statics/windows.png)
