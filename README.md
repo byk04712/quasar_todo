@@ -1,3 +1,4 @@
+
 # [Quasar](http://quasar.dev/) Todo App
 
 Quasar Todo
@@ -30,8 +31,10 @@ quasar build
 同时支持 <code>Android</code> <code>iOS</code> <code>Windows</code> <code>MacOS</code> <code>Web</code> <code>H5</code> etc...
 
 ### 预览
-![](./src/statics/mobile.png)
+![手机端](./src/statics/mobile.png)
 
-![](./src/statics/browse.png)
+![浏览器端](./src/statics/browse.png)
 
-![](./src/statics/windows.png)
+![windows桌面端](./src/statics/windows.png)
+
+![mac桌面端](./src/statics/macos.png)
